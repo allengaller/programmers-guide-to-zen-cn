@@ -3,6 +3,7 @@
 * [前言](README.md)
    * [何为禅](src/mind/about.md)
    * [码农禅](src/mind/zen4coder.md)
+   * [学佛入门](03.md)
 * [心篇](src/mind/readme.md)
    * [Hello World](src/mind/practice/readme.md)
        * [迷茫与觉醒](src/mind/practice/self.md)
